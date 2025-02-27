@@ -19,6 +19,7 @@ module:
   domain_config_ui: 0
   easy_install: 0
   masquerade: 0
+  meaofd: 0
   stage_file_proxy: 0
   syslog: 0
   update: 0
